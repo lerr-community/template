@@ -1,0 +1,23 @@
+{
+  "name": "@lerr-community/template",
+  "version": "1.0.0",
+  "description": "Lerr Templates CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lerr-community/template.git"
+  },
+  "keywords": [
+    "cli",
+    "templates"
+  ],
+  "author": "Syahril Akbar Atthoriq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lerr-community/template/issues"
+  },
+  "homepage": "https://github.com/lerr-community/template#readme"
+}
