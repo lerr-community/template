@@ -1,0 +1,2 @@
+# template
+LerrJS Templates CLI
